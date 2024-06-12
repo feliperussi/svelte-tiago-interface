@@ -3,9 +3,7 @@
 This demo provides a web-based interface using Svelte to control a TIAGo robot and send Text-To-Speech (TTS) messages via ROS (Robot Operating System). The interface allows users to control the robot's movements and input text to be spoken by the robot.
 
 ## Prerequisites
-
-- **ROS (Robot Operating System)**: Ensure ROS is installed and running on your robot.
-- **ROS Bridge Suite**: For connecting ROS with web interfaces.
+- **Robot**: A TIAGo base robot.
 - **Svelte**: A front-end framework for building fast web applications.
 - **ROSLIB.js**: A JavaScript library for ROS.
 
