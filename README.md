@@ -16,7 +16,7 @@ This demo provides a web-based interface using Svelte to control a TIAGo robot a
 First, clone the repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/feliperussi/svelte-tiago-interface
 cd svelte-tiago-interface
 ```
 
