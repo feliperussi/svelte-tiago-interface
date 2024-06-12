@@ -71,7 +71,7 @@
         break;
     }
     sendCmdVel();
-    intervalId = setInterval(sendCmdVel, 10);  // Re-send command every 100ms
+    intervalId = setInterval(sendCmdVel, 10);
   }
 
   function handlePressEnd() {

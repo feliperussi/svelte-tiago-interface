@@ -48,9 +48,6 @@ To ensure the web interface can communicate with the TIAGo robot, you need to mo
 Once you've modified the IP address and installed dependencies, start a development server:
 
 ```bash
-npm run dev
-
-# Or start the server and open the app in a new browser tab
 npm run dev -- --host
 ```
 
